@@ -1,0 +1,31 @@
+DELIVERY_ID,ORDER_DATE,ORIGIN,DESTINATION,PACKAGE_TYPE,WEIGHT_KG,DELIVERY_DAYS,STATUS,COST,PROFIT,RIDER
+301,2024-01-05,Owerri,Port Harcourt,Document,0.5,1,On-Time,2000,800,Chidi
+302,2024-01-08,Port Harcourt,Lagos,Electronics,2.5,3,Late,5000,1500,Amaka
+303,2024-01-10,Aba,Enugu,Clothing,1.2,2,On-Time,3000,900,Tunde
+304,2024-01-12,Lagos,Owerri,Food Items,5.0,2,On-Time,4500,1200,Emeka
+305,2024-01-15,Enugu,Port Harcourt,Document,0.3,1,On-Time,2000,800,Chidi
+306,2024-01-18,Owerri,Lagos,Electronics,3.0,4,Late,6000,1800,Amaka
+307,2024-01-20,Port Harcourt,Aba,Clothing,2.0,2,On-Time,3500,1000,Tunde
+308,2024-01-22,Aba,Owerri,Food Items,4.5,2,On-Time,4000,1100,Emeka
+309,2024-01-25,Lagos,Enugu,Document,0.4,1,Late,2500,700,Chidi
+310,2024-01-28,Enugu,Aba,Electronics,2.8,3,On-Time,5000,1500,Amaka
+311,2024-02-02,Owerri,Aba,Clothing,1.5,2,On-Time,3000,900,Tunde
+312,2024-02-05,Port Harcourt,Enugu,Food Items,6.0,3,Late,5500,1600,Emeka
+313,2024-02-08,Aba,Lagos,Document,0.6,2,On-Time,3000,900,Chidi
+314,2024-02-10,Lagos,Port Harcourt,Electronics,3.5,3,On-Time,5500,1700,Amaka
+315,2024-02-12,Enugu,Owerri,Clothing,2.2,2,Late,3500,1000,Tunde
+316,2024-02-15,Owerri,Enugu,Food Items,4.0,2,On-Time,4000,1100,Emeka
+317,2024-02-18,Port Harcourt,Owerri,Document,0.5,1,On-Time,2000,800,Chidi
+318,2024-02-20,Aba,Port Harcourt,Electronics,2.0,2,On-Time,4000,1200,Amaka
+319,2024-02-22,Lagos,Aba,Clothing,1.8,2,Late,3500,1000,Tunde
+320,2024-02-25,Enugu,Lagos,Food Items,5.5,4,Late,6000,1800,Emeka
+321,2024-03-02,Owerri,Port Harcourt,Document,0.4,1,On-Time,2000,800,Chidi
+322,2024-03-05,Port Harcourt,Lagos,Electronics,2.6,3,On-Time,5000,1500,Amaka
+323,2024-03-08,Aba,Enugu,Clothing,1.3,2,On-Time,3000,900,Tunde
+324,2024-03-10,Lagos,Owerri,Food Items,4.8,2,On-Time,4500,1200,Emeka
+325,2024-03-12,Enugu,Port Harcourt,Document,0.3,1,On-Time,2000,800,Chidi
+326,2024-03-15,Owerri,Lagos,Electronics,3.2,3,Late,6000,1800,Amaka
+327,2024-03-18,Port Harcourt,Aba,Clothing,2.1,2,On-Time,3500,1000,Tunde
+328,2024-03-20,Aba,Owerri,Food Items,4.2,2,On-Time,4000,1100,Emeka
+329,2024-03-22,Lagos,Enugu,Document,0.5,1,On-Time,2500,700,Chidi
+330,2024-03-25,Enugu,Aba,Electronics,2.9,3,On-Time,5000,1500,Amaka
